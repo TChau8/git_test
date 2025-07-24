@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!
+Place to practice/test some quick code
